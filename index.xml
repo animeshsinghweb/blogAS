@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animesh&#39;s blog</title>
+    <link>https://blog.animeshsingh.in/</link>
+    <description>Recent content on Animesh&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
+    <lastBuildDate>Fri, 22 Nov 2019 00:20:36 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.animeshsingh.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://blog.animeshsingh.in/posts/2019/11/hello-world/</link>
+      <pubDate>Fri, 22 Nov 2019 00:20:36 +0530</pubDate>
+      
+      <guid>https://blog.animeshsingh.in/posts/2019/11/hello-world/</guid>
+      <description>Hey world,
+It&amp;rsquo;s been a long time since I paused writing on the web.
+I started my journey from inmyplanet.com, followed by:
+ technofy tekhdecoded: live | archieve pushmyblog blog.animeshsingh.in animeshsingh.in  Most of my publication used to be tech-related but is extinct now, due to non-maintenance and non-renewal they are unpublished from the web. Sadly there aren&amp;rsquo;t any sufficient web archives available of the above link.
+Fortunately, I imported some of the contents to Medium Blog but I don&amp;rsquo;t update there since I don&amp;rsquo;t really like the ideas of marketing my posts.</description>
+    </item>
+    
+  </channel>
+</rss>

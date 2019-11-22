@@ -1,0 +1,46 @@
+/*customization for hello-friend */
+
+.content .post .img-theme-border {
+  /* box-shadow: -3px 2px 5px 4px #00000061; */
+  /* border: 10px solid #fe5186;
+  border-color: #fe5186; */
+  
+  /* border-radius: 10px; change/remove as required */
+  /* overflow: hidden; */
+  /* position: relative; */
+}
+
+/* .content .post img.img-theme-border:after {
+  box-shadow: -3px 2px 5px 4px #00000061;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  border: 20px solid pink;
+  border-radius: 10px;
+  content: '';
+  display: block;
+} */
+
+.content .post .center {
+  text-align: center;
+  /* margin: 0 auto; */
+}
+
+
+.content .post .text-theme-color,
+.content .post a {
+  /* color: #ffb300; */
+  color: #fe5186;
+}
+
+.content .post {
+  font-size: 1.24em;
+}
+
+.logo__cursor {
+  /* background: #ffb300; */
+  /* animation: cursor 1s 6;
+  -webkit-animation: cursor 1s 6s; */
+}
