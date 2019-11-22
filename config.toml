@@ -1,0 +1,50 @@
+baseurl = "https://blog.animeshsingh.in"
+languageCode = "en-in"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # Show reading time in minutes for posts
+  showReadingTime = true
+
+[languages]
+  [languages.en]
+    title = "Animesh's blog"
+    subtitle = "Observations, Analyses & Publications"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    # dateFormatSingle = "2006-01-02"
+    dateFormatSingle = "Monday, Jan 2, 2006 | 15:04 PM"
+    # dateFormatList = "2006-01-02"
+    dateFormatList = "Monday, Jan 2, 2006 | 15:04 PM"
+
+    [languages.en.params.logo]
+      logoText = "blog.animeshsingh.in"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "https://animeshsingh.in"
+      [[languages.en.menu.main]]
+        identifier = "hello-world"
+        name = "Welcome Post"
+        url = "/posts/2019/11/hello-world/"
