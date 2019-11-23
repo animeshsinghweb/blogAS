@@ -75,7 +75,6 @@ I might not open most of the topics for discussions as I feel I don't want to de
 
 Also, if you find any bugs or grammatical errors and want to correct it yourself, send a pull request at my [blogAS Github repo](https://github.com/animeshsinghweb/blogAS) or if you don't code (which you should [learn](https://www.youtube.com/channel/UC_VQTeESn5rDLknJi9xbscA)) just [raise an issue](https://github.com/animeshsinghweb/blogAS/issues/new).
 
-I'm currently using [hugo](https://gohugo.io/getting-started/quick-start/) and Github Pages for generating publishing this static site.
 I'm currently using [hugo](https://gohugo.io/getting-started/quick-start/) and [Github Pages](https://pages.github.com/) for generating publishing this static site.
 
 
