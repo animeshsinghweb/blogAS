@@ -2,6 +2,7 @@
 title: "If I Fall in Love with ❤️..."
 date: 2019-11-23T13:06:56+05:30
 draft: false
+place: at Home, Jamshedpur
 tags:
   - poem
   - song
@@ -86,7 +87,7 @@ Before you start listening it, I would want you to eradicate from your mind (if 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MXg6Usdjl5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-Imagine the singer talking with the infinite truth (Satya) in its pure form.
+Imagine the singer talking with the infinite truth (Satya / Ram) in its pure form.
 
 I had used the reference from [bollymeaning.com](http://www.bollymeaning.com/2012/04/satyameva-jayate-title-song-lyrics.html) for English translation.
 
@@ -124,7 +125,7 @@ I had used the reference from [bollymeaning.com](http://www.bollymeaning.com/201
 
 # Truth alone, truth alone truth alone triumphs,
 # your love is true, truth alone triumphs..
-# Truth alone, truth alone, truth along triumphs.
+# Truth alone, truth alone, truth alone triumphs.
 
 
 तेरे नूर के दस्तूर में
@@ -193,7 +194,7 @@ I had used the reference from [bollymeaning.com](http://www.bollymeaning.com/201
 # This festival of heartbeats,
 # This victory, this loss,
 # This world of my own self,
-# I'll change (it all) for you...
+# I'll change (myself and all above) for you...
 
 
 

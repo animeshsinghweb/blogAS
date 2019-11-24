@@ -2,6 +2,7 @@
 title: "Hello World!"
 date: 2019-11-22T00:20:36+05:30
 draft: false
+place: at Home, Jamshedpur
 tags:
   - welcome post
   - about animeshsingh blog
@@ -56,8 +57,9 @@ I could suggest you to scroll [animeshsingh.in](https://animeshsingh.in) and rea
 Social Links:
 
 <!-- <i class="fab fa-instagram"></i> -->
-- {{< fa fab fa-instagram >}} 
- instagram: [@f4.animesh](https://www.instagram.com/f4.animesh/)
+
+- {{< fa fab fa-instagram >}}
+  instagram: [@f4.animesh](https://www.instagram.com/f4.animesh/)
 - {{< fa fab fa-facebook >}} facebook: [@f4.animesh](https://www.facebook.com/f4.animesh)
 - {{< fa fab fa-twitter >}} twitter: [@animesh22singh](https://twitter.com/animesh22singh)
 - {{< fa fab fa-github >}} github: [@animeshsinghweb](https://github.com/animeshsinghweb)
@@ -75,14 +77,13 @@ I might not open most of the topics for discussions as I feel I don't want to de
 
 Also, if you find any bugs or grammatical errors and want to correct it yourself, send a pull request at my [blogAS Github repo](https://github.com/animeshsinghweb/blogAS) or if you don't code (which you should [learn](https://www.youtube.com/channel/UC_VQTeESn5rDLknJi9xbscA)) just [raise an issue](https://github.com/animeshsinghweb/blogAS/issues/new).
 
-I'm currently using [hugo](https://gohugo.io/getting-started/quick-start/) and [Github Pages](https://pages.github.com/) for generating publishing this static site.
-
+I'm currently using [hugo](https://gohugo.io/getting-started/quick-start/) and [Github Pages](https://pages.github.com/) for generating and publishing this static site.
 
 ---
 
 {{< image src="https://uelhyq.ch.files.1drv.com/y4mIvWjkPDBayZcEhn6ehZj3FrGokmdGvcC_DsUKeDPUq-tIhakFNIvdzLCjV14PuVYAJJZfU_XN4q_WTQtkiK0WOAIzl3zOgOtj0mQtqbbmoZphtlueBrreLbiQwxF-KFQoleVicnVyfwHOWcOdKhe53OR8HhoBgCXqWElfZ5yYKlc2kRlF8-CJFwnQ1R7VjSp1L2L0Y0F9wxwwmgVAmTQWw?width=192&height=256&cropmode=none" alt="Someone is watching you - pose" position="left img-theme-border" style="border-radius: 2em; float: left; padding: 1em;" >}}
 
-Meanwhile if you get nasty reading some of the posts, remind yourself of the this picture.
+Meanwhile, if you get nasty reading some of the posts, remind yourself of this picture.
 
 Also, if you find this post got a lot technical and you couldn't decipher it, forgive me.
 
