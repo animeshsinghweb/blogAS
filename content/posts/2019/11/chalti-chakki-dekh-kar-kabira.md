@@ -2,7 +2,7 @@
 title: "Chalti Chakki Dekh Kar "
 date: 2019-11-24T17:53:41+05:30
 draft: false
-place: at Home, Jamshedpur
+place: at Baridih, Jamshedpur
 tags:
   - kabira
   - meanings
@@ -10,11 +10,11 @@ categories:
   - kabir
 ---
 
-For a while I was wondering why is Kabira crying seeing the spinning of two wheels that is used for the preparation of floor from seeds.
+For a long time, I was wondering why does Kabira cries when he observes stone-powered grinding machine working.
 
-What is in two stones that is making kabira so emotional, so sad. What had he find in that rotating piece of stones.
+What is in the two stones that is making kabira so emotional, so sad. What had he find in that spinning piece of stones.
 
-Before I get started on it, If you love listening, here is a the video I found on youtube reciting these beautiful verses.
+If you love listening, I fetched a youtube video that recites these beautiful verses.
 
 <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vYzuqs-FDHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -22,7 +22,7 @@ Before I get started on it, If you love listening, here is a the video I found o
 
 > चक्की चलती देख कर दिया कबीर रोई ।
 >
-> दो पाटन के बीच में साबित बचे ना कोई ।।
+> दो पाटन के बीच में साबित बचा ना कोई ।।
 >
 > > **Hinglish**
 > >
@@ -36,7 +36,7 @@ Before I get started on it, If you love listening, here is a the video I found o
 > >
 > > In the duel of wheels, nothing stays intact.
 
-I had found good reference of various metaphorical translations of these words from https://www.boloji.com/doha-details/1/chalti-chakki-dekh-kar. I would suggest you to have read the post and it's discussion to get enlightened by various ideas.
+I had found good reference of various metaphorical translations of these words from https://www.boloji.com/doha-details/1/chalti-chakki-dekh-kar. I would suggest you to read that post and it's discussion to get enlightened by various ideas.
 
 ---
 
@@ -68,9 +68,10 @@ Kabira had find a woman grinding wheat from two stones, which makes Kabira emoti
 
 ## What is duality?
 
-Kabira is laying emphasis on the word two stones (दो पाटन) i.e dual aspects or duality (द्वैत - dwait) and it continuous cycle (चलती चक्की).
+Kabira is laying emphasis on the word two stones (दो पाटन) i.e dual aspects or duality (द्वैत - dwait) and it's continuous cycle (चलती चक्की).
 
-Anything that is of this world has two aspects, this is the duality.
+Anything that belongs to this world has two aspects, this is the duality.
+
 Examples:
 
 - man and woman
@@ -87,9 +88,9 @@ Basically everything in this world is dual (द्वैत - dwait).
 
 Duality is the place of all sufferings.
 
-Whenever I mention freedom, it's this spiritual freedom I'm talking about, it's this freedom that all saints have been talking about, it's this freedom we see Mohammad, Christ, Krishna, Nanak, Buddha, Mahavira, Kabira, Sufis and seekers have walked and pointed us. It's the freedom from duality, the cycle of duality.
+Whenever I mention freedom, it's this spiritual freedom I'm talking about, it's this freedom that all saints have been talking about, it's this freedom we see Mohammad, Christ, Krishna, Nanak, Buddha, Mahavira, Kabira, Sufis and seekers have walked and pointed us. It's the freedom from duality, the cycle of duality. It's also refered as liberation and nirvana is many context.
 
-Kabira is crying because he is continuously saying everyone here would vanish in this duality and no one is being able to truly understand Kabira's lessons of advait (अद्वैत - freedom from duality). Everyone is stuck in this cycle (of duality, between birth and death, happiness and depressions).
+Kabira is crying because he is continuously saying everyone here would vanish in this duality and no one is being able to truly understand Kabira's lessons of advait (अद्वैत - freedom from duality). Everyone is stuck in this cycle (of birth and death, of repetition of duality). Kabira is sad because the world doesn't understand the importance of liberation.
 
 Duality is also Maya (the illusions of the world).
 
@@ -103,9 +104,9 @@ This amuses Kabira, how can any grain escape this cycle of two stones (duality)!
 
 Let's see
 
-> दूर दूर जो रहे पीस पीस आता होय ।
+> दूरा दूरा जो रहे, पीस पीस आँटा होय ।
 >
-> शरणा लेवे कील का बाल ना बाँका होय ।।
+> शरणा लेवे कील का, बाल ना बाँका होय ।।
 >
 > > **Hinglish**
 > >
@@ -119,7 +120,7 @@ Let's see
 > >
 > > But not even a single hair would be damaged of those which take the shelter of middle rod.
 
-Let's decipher this words by words:
+Let's decipher this word by word:
 
 1. **dura dura** - far away
 
@@ -138,7 +139,9 @@ Let's decipher this words by words:
 8. **baal na baanka hoye** - not even a hair is tangled (no damage is
    caused)
 
-Kabira is metaphorically indicating us that, if you had seen your life being wasted ahead, you should take shelter of someone who had already had crossed this viscious cycle of Maya and duality or someone who is so strong, that duality can't touch them.
+Kabira is metaphorically indicating us that, if you had seen your life being wasted, you should take shelter of someone who had already crossed this viscious cycle of Maya and duality or someone who is so strong, that duality can't touch them.
 
-Kabira wants you to find your guru (one who eliminates your ignorance) yourself who can help you cross this duality and surrender yourself completely to him. If you don't find any guru, surrender yourself to Ram (the strong, the rod, the ultimate truth) and duality can't touch you. By Ram, he is not pointing to the one linked with the domain of Ayodhya as in Ramayana, but something more abstract than him, something that is out of the world and hence out of the duality.
+Kabira wants you to find your guru (one who eliminates your ignorance) yourself, who can help you cross this duality, and surrender yourself completely to him. If you don't find any guru, surrender yourself to Ram (the strong, the rod, the ultimate truth) and duality can't touch you. By Ram, he is not pointing to the one linked with the domain of Ayodhya as in Ramayana, but something more abstract than him, something that is out of the world and hence out of the duality.
 That Ram is another word for Love seeped in yourself.
+
+One who truly finds Ram and takes his homage (by sacrificing himself completely, i.e. body, mind and soul) is immediately liberated and becomes fearless. Even time can't harm him as time is bound by duality and Ram and his lovers are not.
