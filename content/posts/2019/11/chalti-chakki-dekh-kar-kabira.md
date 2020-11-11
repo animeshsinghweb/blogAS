@@ -10,7 +10,7 @@ categories:
   - kabir
 ---
 
-For a long time, I was wondering why does Kabira cries when he observes stone-powered grinding machine working.
+For a long time, I had been wondering why does Kabira cries when he observes stone-powered grinding machine working.
 
 What is in the two stones that is making kabira so emotional, so sad. What had he find in that spinning piece of stones.
 
@@ -88,7 +88,12 @@ Basically everything in this world is dual (द्वैत - dwait).
 
 Duality is the place of all sufferings.
 
+<<<<<<< HEAD
 Whenever I mention freedom, it's this spiritual freedom I'm talking about, it's this freedom that all saints have been talking about, it's this freedom we see Mohammad, Christ, Krishna, Nanak, Buddha, Mahavira, Kabira, Sufis and seekers have walked and pointed us. It's the freedom from duality, the cycle of duality. It's also refered as liberation and nirvana is many context.
+=======
+Whenever I mention freedom, it's this spiritual freedom I'm talking about, it's this freedom that all saints have been talking about, it's this freedom we see Mohammad, Christ, Krishna, Nanak, Buddha, Mahavira, Kabira, Sufis and seekers have walked and pointed us. It's the freedom from duality, the cycle of duality. It's also refered liberation and nirvana is many context.
+
+> > > > > > > 74ce0e093d2158eb7fa944c1c1668fe3f5663206
 
 Kabira is crying because he is continuously saying everyone here would vanish in this duality and no one is being able to truly understand Kabira's lessons of advait (अद्वैत - freedom from duality). Everyone is stuck in this cycle (of birth and death, of repetition of duality). Kabira is sad because the world doesn't understand the importance of liberation.
 
@@ -144,4 +149,9 @@ Kabira is metaphorically indicating us that, if you had seen your life being was
 Kabira wants you to find your guru (one who eliminates your ignorance) yourself, who can help you cross this duality, and surrender yourself completely to him. If you don't find any guru, surrender yourself to Ram (the strong, the rod, the ultimate truth) and duality can't touch you. By Ram, he is not pointing to the one linked with the domain of Ayodhya as in Ramayana, but something more abstract than him, something that is out of the world and hence out of the duality.
 That Ram is another word for Love seeped in yourself.
 
+<<<<<<< HEAD
 One who truly finds Ram and takes his homage (by sacrificing himself completely, i.e. body, mind and soul) is immediately liberated and becomes fearless. Even time can't harm him as time is bound by duality and Ram and his lovers are not.
+=======
+One who truly finds Ram and takes his homage (by sacrificing himself completely, i.e. body, mind and soul) is immediately liberated and they become fearless. Even time can't harm him as time is bound by duality and Ram and his lovers are not.
+
+> > > > > > > 74ce0e093d2158eb7fa944c1c1668fe3f5663206
