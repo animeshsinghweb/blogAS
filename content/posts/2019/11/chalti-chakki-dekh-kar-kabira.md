@@ -10,7 +10,7 @@ categories:
   - kabir
 ---
 
-For a long time, I was wondering why does Kabira cries when he observes stone-powered grinding machine working.
+For a long time, I had been wondering why does Kabira cries when he observes stone-powered grinding machine working.
 
 What is in the two stones that is making kabira so emotional, so sad. What had he find in that spinning piece of stones.
 
